@@ -1,0 +1,16 @@
+{
+    "name": "UITestTask",
+    "rootNamespace": "UITestTask",
+    "references": [
+        "GUID:b50853560058acc408ccb576250a3fd1"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
